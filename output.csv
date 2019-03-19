@@ -1,0 +1,33 @@
+Token Value ,Token Type ,Details 
+read, Reserved Word 
+x, Identifier 
+;, Special Symbol, Semicolon
+if, Reserved Word 
+0, Number 
+<, Special Symbol, Less than
+x, Identifier 
+then, Reserved Word 
+fact, Identifier 
+:=, Special Symbol, assign
+1, Number 
+;, Special Symbol, Semicolon
+repeat, Reserved Word 
+fact, Identifier 
+:=, Special Symbol, assign
+fact, Identifier 
+*, Special Symbol, Asterisk
+x, Identifier 
+;, Special Symbol, Semicolon
+x, Identifier 
+:=, Special Symbol, assign
+x, Identifier 
+-, Special Symbol, Minus
+1, Number 
+until, Reserved Word 
+x, Identifier 
+=, Special Symbol, Equal sign
+0, Number 
+;, Special Symbol, Semicolon
+write, Reserved Word 
+fact, Identifier 
+end, Reserved Word 
